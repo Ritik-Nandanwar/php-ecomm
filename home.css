@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.homeBgImg {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  filter: brightness(1);
+}
+.about-us-div {
+  width: 90vw;
+  background-color: #1e1e1e;
+  color: white;
+  padding: 100px 22px;
+  margin: 56px auto;
+  text-align: center;
+  font-size: large;
+  line-height: 22px;
+}
+.about-us-div h1 {
+  margin: 56px auto;
+}
+.banner {
+  color: white;
+  font-size: 60px;
+  position: fixed;
+  z-index: 4545544;
+  top: 35%;
+  left: 35%;
+}
+.buy-btn {
+  color: white;
+  font-size: 30px;
+  position: fixed;
+  z-index: 4545544;
+  top: 55%;
+  left: 40%;
+  border: 1px solid red;
+  padding: 12px;
+}
